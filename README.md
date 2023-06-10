@@ -8,7 +8,7 @@ The DayZ pDriveScanner is a utility that allows users to search through the unpa
 - Filter the search by file type (e.g., CPP or C) to narrow down the results.
 - History functionality to store previous search queries for easy access.
 - Ability to open the found files directly from the tool.
-- Simple and intuitive user interface for a seamless search experience.
+- Simple and intuitive user interface for a seamless search experience..
 
 ## Getting Started
 
