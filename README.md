@@ -20,7 +20,7 @@ To get started with the DayZ pDriveScanner, follow these steps:
 
 ## Usage
 
-1. Launch the DayZ pDriveScanner.
+1. Launch the DayZ Tools Then pDriveScanner.
 2. Enter the search query in the provided text input field.
 3. Select the desired file type(s) to include in the search (C++, C, or both).
 4. Click the "Search" button to initiate the search.
